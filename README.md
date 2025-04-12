@@ -1,6 +1,6 @@
 # Vinicius Yahagi Rios
 
-Desenvolvedor Front-End focado em interfaces modernas, performance e boas práticas.
+Desenvolvedor Front-End
 
 ---
 
