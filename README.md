@@ -24,7 +24,7 @@ Desenvolvedor Front-End
 
 ### 📌 Projetos
 
-Confira os repositórios fixados no topo do meu perfil para ver os projetos em destaque.
+Confira os repositórios fixados no abaixo do meu perfil para ver os projetos em destaque.
 
 ---
 
