@@ -19,12 +19,13 @@ Desenvolvedor Front-End
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-1E1E1E?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 ---
 
 ### 📌 Projetos
 
-Confira os repositórios fixados no abaixo do meu perfil para ver os projetos em destaque.
+Confira os repositórios fixados abaixo do meu perfil para ver os projetos em destaque.
 
 ---
 
@@ -36,6 +37,4 @@ Confira os repositórios fixados no abaixo do meu perfil para ver os projetos em
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-Vinicius_Yahagi_Rios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-yahagi-rios-350647280/)
-
----
+[![LinkedIn](https://img.shields.io/badge/-Vinicius_Yahagi_Rios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin
