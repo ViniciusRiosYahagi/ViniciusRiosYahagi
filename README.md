@@ -1,10 +1,10 @@
 # Vinicius Yahagi Rios
 
-Desenvolvedor Front-End
+Full-Stack Developer
 
 ---
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,9 +23,9 @@ Desenvolvedor Front-End
 
 ---
 
-### 📌 Projetos
+### 📌 Projects
 
-Confira os repositórios fixados abaixo do meu perfil para ver os projetos em destaque.
+Check out the pinned repositories below my profile to see featured projects.
 
 ---
 
@@ -35,6 +35,8 @@ Confira os repositórios fixados abaixo do meu perfil para ver os projetos em de
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-Vinicius_Yahagi_Rios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin
+[![LinkedIn](https://img.shields.io/badge/-Vinicius_Yahagi_Rios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-yahagi-rios-350647280/)
+
+---
