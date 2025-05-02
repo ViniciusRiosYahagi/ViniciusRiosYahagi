@@ -4,6 +4,13 @@ Full-Stack Developer
 
 ---
 
+### 📚 Skills
+
+Knowledge in web development, including endpoints, RESTful APIs, SSR SPA, and CSR. Experience
+with SQL relational databases, Supabase as a back-end solution, and Prisma for database
+interaction. Skilled in developing responsive websites, creating reusable components, and
+applying UI/UX, web scraping and web automation.
+
 ### 🛠 Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
