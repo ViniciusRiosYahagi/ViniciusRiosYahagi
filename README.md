@@ -30,12 +30,6 @@ applying UI/UX, web scraping and web automation.
 
 ---
 
-### 📌 Projects
-
-Check out the pinned repositories below my profile to see featured projects.
-
----
-
 ### 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusriosyahagi&layout=compact&theme=transparent)](https://github.com/viniciusriosyahagi)
@@ -45,5 +39,6 @@ Check out the pinned repositories below my profile to see featured projects.
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-Vinicius_Yahagi_Rios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-yahagi-rios-350647280/)
+Email: ViniciusYahagiRios@hotmail.com
 
 ---
