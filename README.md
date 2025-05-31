@@ -6,10 +6,7 @@ Full-Stack Developer
 
 ### 📚 Skills
 
-Knowledge in web development, including endpoints, RESTful APIs, SSR SPA, and CSR. Experience
-with SQL relational databases, Supabase as a back-end solution, and Prisma for database
-interaction. Skilled in developing responsive websites, creating reusable components, and
-applying UI/UX, web scraping and web automation.
+I'm a Full-Stack Developer with 3 years of experience building modern web applications. I have solid experience in SvelteKit, along with strong knowledge of Svelte and React. My tech stack includes HTML, CSS, JavaScript (JS), TypeScript (TS), Node.js, Fastify, and Puppeteer. I work with SQL and Prisma for efficient and scalable database management. On the front-end, I'm experienced with Tailwind CSS and Sass, always focusing on clean, responsive, and intuitive user interfaces. I'm passionate about developing high-performance applications and constantly eager to explore and master new technologies.
 
 ### 🛠 Technologies
 
