@@ -28,13 +28,12 @@ I'm a Full-Stack Developer with 3 years of experience building modern web applic
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusriosyahagi&layout=compact&theme=transparent)](https://github.com/viniciusriosyahagi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusriosyahagi&layout=compact&theme=transparent)
 
 ---
 
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-Vinicius_Yahagi_Rios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-yahagi-rios-350647280/)
-Email: ViniciusYahagiRios@hotmail.com
 
 ---
