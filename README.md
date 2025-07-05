@@ -1,12 +1,3 @@
-# Vinicius Yahagi Rios
-
-Full-Stack Developer
-
----
-
-### 📚 Skills
-
-I'm a Full-Stack Developer with 3 years of experience building modern web applications. I have solid experience in SvelteKit, along with strong knowledge of Svelte and React. My tech stack includes HTML, CSS, JavaScript (JS), TypeScript (TS), Node.js, Fastify, and Puppeteer. I work with SQL and Prisma for efficient and scalable database management. On the front-end, I'm experienced with Tailwind CSS and Sass, always focusing on clean, responsive, and intuitive user interfaces. I'm passionate about developing high-performance applications and constantly eager to explore and master new technologies.
 
 ### 🛠 Technologies
 
