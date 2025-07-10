@@ -13,7 +13,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-1E1E1E?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 ---
 
